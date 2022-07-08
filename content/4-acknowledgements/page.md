@@ -1,0 +1,31 @@
+---
+Title: Acknowledgements
+---
+
+A Message to Each and everyone in this group and to those I met along the way.
+
+PIA DEVRIES
+
+BEATRIZ DIAZ
+
+MARYN HEALD
+
+NICHOLE KRAUS
+
+SARA MAJID
+
+PABLO MORALES
+
+ODWUAR QUINONEZ
+
+TRICIA RAMAEKERS
+
+JENELLE REEVES
+
+KATIE SLADEK
+
+JILL CAMARGO
+
+DAVID STASTNY
+
+TREVIN WURM
