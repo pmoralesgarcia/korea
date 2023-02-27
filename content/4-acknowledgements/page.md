@@ -2,7 +2,7 @@
 Title: Acknowledgements
 ---
 
-A Message to Each and everyone in this group and to those I met along the way.
+###A Message to each and everyone in the UNL Fulbright Group.
 
 PIA DEVRIES
 
@@ -29,3 +29,8 @@ JILL CAMARGO
 DAVID STASTNY
 
 TREVIN WURM
+
+### To the Friends I Reconnected With
+Hyungseok Choi 형석 최
+
+Emily Hemmer

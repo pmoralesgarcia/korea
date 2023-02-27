@@ -1,5 +1,6 @@
 ---
 Title: Adventures in Korea
+
 ---
 
 <style>
@@ -68,9 +69,9 @@ nav:before{
   z-index:0
 }
 @keyframes fader {
-  0%,30%,100%{ background-image:url(https://68.media.tumblr.com/02ace438b88c1b42acdf041c9cfb40a0/tumblr_oj92canMJ21vm743bo1_1280.jpg)}
-33%,60% { background-image: url(https://68.media.tumblr.com/6dd9c3eb4e1b814138cd88808fa4924c/tumblr_oix3a6uSrb1tgbn6xo1_1280.jpg); }
-63%,97% { background-image: url(https://68.media.tumblr.com/9fe927a6c887499af03edae78bdd4538/tumblr_ok4v0050Lo1uz44pdo1_500.jpg) }
+  0%,30%,100%{ background-image:url(/media/images/front-page/city-view.png)}
+33%,60% { background-image: url(/media/images/front-page/i-love-seoul.png); }
+63%,97% { background-image: url(/media/images/front-page/group-nasam-tower.png) }
 }
 .hero h1{
   padding:.5em;
